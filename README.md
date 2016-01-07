@@ -1,5 +1,5 @@
 # TesterHome_hot_words_analyse
-社区精华帖的热词分析（菜鸟级）
+社区精华帖的热词分析（菜鸟）
 
 ---
 
@@ -135,3 +135,10 @@ jieba.analyse.textrank(topics_all_contents, topK=20, withWeight=True, allowPOS=(
 热词：工具, 权重值：0.128213384529
 分析结束，耗费时间：0:08:14.268000
 ```
+
+---
+
+## 源代码
+[github地址](https://github.com/neiltest/TesterHome_hot_words_analyse/)
+
+---
